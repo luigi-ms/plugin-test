@@ -1,0 +1,7 @@
+{
+  "name": "plugin-test",
+  "author": "luigi-ms",
+  "description": "Just testing if works",
+  "version": "1.0.0-alpha",
+  "styles-path": "./main.css",
+}
